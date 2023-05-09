@@ -16,4 +16,3 @@
 
 - 🔭 I’m currently working on java spring app which allows users to compete in typing competition
 - 📫 How to reach me: w.czetyrbok@gmail.com
-
