@@ -14,5 +14,5 @@
 - PYTHON
   - Voice command game, 2 players game which can be controlled by voice (Deep learnign), tensorflow, keras
 
-- 🔭 I’m currently working on java spring app which allows users to compete in typing competition
+- 🔭 I’m currently working on java spring app which allows users to track sport games and make bets
 - 📫 How to reach me: w.czetyrbok@gmail.com
